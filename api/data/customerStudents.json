@@ -1,0 +1,18 @@
+{
+  "customerWallets": {
+    "data": [
+      {
+        "id": "5da9ea674234635bdff45c02",
+        "name": "Student 149501",
+        "parentId": "5da9ea6732123433432",
+        "birthDate": "1999-10-23T03:00:00Z",
+        "cellphone": "(41)(11111111)",
+        "phone": "(41)11111111",
+        "email": "email@opet.com.br",
+        "occupation": "Student",
+        "state": "PR",
+        "createdAt": "2023-01-18T16:37:58.979Z"
+      }
+    ]
+  }
+}
